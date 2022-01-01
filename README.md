@@ -4,3 +4,5 @@ Built a CNN model using Keras module of Tensorflow library in Python which can r
 
 Dataset - fer2013
 
+Here is the [report](https://github.com/lgokulnath/Facial-Emotion-Recognition/blob/main/project_report.pdf)
+
